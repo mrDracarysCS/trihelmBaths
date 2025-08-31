@@ -1,0 +1,6 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root { --radius: 1rem; }
+body { font-feature-settings: "ss01" on, "ss02" on; }
